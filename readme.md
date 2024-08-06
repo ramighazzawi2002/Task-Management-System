@@ -136,7 +136,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Contact
 
-For any queries or feedback, reach out to me at [your-email@example.com].
+For any queries or feedback, reach out to me at [rami.ghazzawiabed@gmail.com].
 
 ---
 
